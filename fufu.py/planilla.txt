@@ -1,0 +1,24 @@
+Nombre: jordan
+Apellido: diaz
+Cargo: Ceo
+Sueldo Bruto: 50000
+Descuento Salud: 3500.0000000000005
+Descuento AFP: 6000.0
+Liquido a Pagar: 40500.0
+
+Nombre: maria
+Apellido: zans
+Cargo: Desarrollador
+Sueldo Bruto: 70000
+Descuento Salud: 4900.000000000001
+Descuento AFP: 8400.0
+Liquido a Pagar: 56700.0
+
+Nombre: sofia
+Apellido: mendez
+Cargo: Borialito
+Sueldo Bruto: 90000
+Descuento Salud: 6300.000000000001
+Descuento AFP: 10800.0
+Liquido a Pagar: 72900.0
+
